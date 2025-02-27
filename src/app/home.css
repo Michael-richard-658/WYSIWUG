@@ -1,13 +1,14 @@
 body {
-    background-color: lightskyblue;
     padding: 0%;
     margin: 0%;
 }
 .main-text{
     height: 500px;
     resize: none;
-    width: 1300px;
+    width: 97%;
     border-radius: 5px;
+    outline: none;
     border: none;
-    margin-left: 6rem;
+    padding-left: 2.5rem;
+    background-color: white;
 }

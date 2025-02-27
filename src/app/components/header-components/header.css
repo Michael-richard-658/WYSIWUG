@@ -1,4 +1,21 @@
 .top-div{
-    background-color: lightslategrey;
-    height: 3.5rem;
+    background-color: rgb(213, 231, 248);
+    height: 4rem;
+    border-bottom: 1px solid slategray;
+
+}
+.bottom-div{
+    height: 6rem;
+    background-color: white;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid slategray;
+    
+}
+.footer-div{
+    border-top: 1px solid slategrey;
+    padding-left: 2.5rem;
+}
+.footer-div > p{
+    margin: 0%;
+    margin-top: 5px;
 }
